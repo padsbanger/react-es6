@@ -1,0 +1,23 @@
+{
+  "name": "react-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/padsbanger/react-es6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padsbanger/react-es6/issues"
+  },
+  "homepage": "https://github.com/padsbanger/react-es6",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
